@@ -3,7 +3,7 @@
 ---
 
 
-[[Lucas BMB/testes/boooora\|boooora]]
+[[Lucas BMB/testes/gráfico\|gráfico]]
 
 
 

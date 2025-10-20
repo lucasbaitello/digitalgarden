@@ -9,6 +9,6 @@ PUuuuublica teste
 
 
 
-[[Lucas BMB/testes/boooora\|boooora]]
+[[Lucas BMB/testes/gráfico\|gráfico]]
 minha 
 
