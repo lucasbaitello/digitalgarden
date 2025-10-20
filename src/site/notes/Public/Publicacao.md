@@ -4,7 +4,7 @@
 
 PUuuuublica teste
 
-[[0 - Master/src/site/notes/0 - Master/Public/Publicacao\|0 - Master/Public/Publicacao]]
+[[0 - Master/Public/Publicacao\|0 - Master/Public/Publicacao]]
 [[lavemvc
 [[Public/boooora\|boooora]]]]
 minha 

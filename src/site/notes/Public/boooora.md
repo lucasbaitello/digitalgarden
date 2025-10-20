@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/boooora/","noteIcon":"","created":"2025-10-19T23:43:37.880-03:00","updated":"2025-10-20T15:31:29.473-03:00"}
+{"dg-publish":true,"permalink":"/public/boooora/","noteIcon":"","created":"2025-10-19T23:43:37.880-03:00","updated":"2025-10-20T16:00:01.427-03:00"}
 ---
 
 aeeee jow, publico aqui direto um site nosso carai, show, top, 
@@ -22,3 +22,42 @@ seraá mesmo [[Public/lavemvc\|lavemvc]]
 > altas paradas
 > 
 > vamos ve comé  que fica
+
+
+
+jow show  ==dsfdf== dfdfdf dfdgdfs
+
+*dgdsg*
+
+#### dgfdfdfdf
+
+## dfdsfdsf
+
+### dsfdsf
+###### dfdsgfdsgsd
+- fdsfdsfdsfsdd
+- dfdfdsfd
+- dfsdgrwter
+-
+
+
+- [ ] dgdgfdf ⏫ ➕ 2025-10-20 
+- [ ] dfdgdsgd 🔼 dgfdsgsd📅 2025-10-21 ➕ 2025-10-20 
+- [ ] 
+```
+
+dfsdfsdfdsf
+
+```
+
+
+```davaviewjs
+dfdf
+
+```
+
+
+- [[Clippings/Instagram/IA/dicas de ia\|dicas de ia]]
+- [[Clippings/Instagram/whaerver data teste\|whaerver data teste]]
+
+{ .block-language-dataview}
