@@ -1,15 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/boooora/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/boooora/"}
 ---
 
-rryrty
+aeeee jow, publico aqui direto um site nosso carai, show, top, 
 
-d
-fgdfd
-f
+ai tem link pra lá [[Media/parapop\|palavras]]
 
-d
-fds
-gfsd
-gsd
-g
+
+que insano man
+
+
+## pode pá!
+
+
+> [!note]- salve
+> altas paradas
+> 
+> vamos ve comé  que fica

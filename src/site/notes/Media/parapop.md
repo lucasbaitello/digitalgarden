@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Media/parapop/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Media/parapop/"}
 ---
 
 
