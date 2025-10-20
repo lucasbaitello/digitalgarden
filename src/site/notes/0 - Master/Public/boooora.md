@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 - Master/Public/boooora/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-19T23:43:37.880-03:00","updated":"2025-10-20T15:07:41.609-03:00"}
+{"dg-publish":true,"permalink":"/0 - Master/Public/boooora/","noteIcon":"","created":"2025-10-19T23:43:37.880-03:00","updated":"2025-10-20T15:11:21.355-03:00"}
 ---
 
 aeeee jow, publico aqui direto um site nosso carai, show, top, 
